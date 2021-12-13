@@ -13,6 +13,7 @@ A user would be able to filter the sightings by typing the criteria into one or 
 
 ## Summary
 For the most part, this project was a major success. The website looks beautiful and functions properly. However, the filter element has some drawbacks. If the criteria does not match any of the items in the data set, the table will be blank. This could occur based on spelling, characters being capitalized or there are no objects that match the filter. There could be some simple improvements made to increase functionality and the overall user experience:
+
     - The list of criteria could be in a dropdown list or autopopulate as the user types in the field
     - There could be a message that appears if there are no results after the criteria has been add, either as a pop up or in the table itself
     - We could use regular expressions to account for capitilized words and simple spelling errors
