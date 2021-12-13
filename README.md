@@ -8,8 +8,8 @@ We had already done a bulk of the work throughout the week and only needed to re
 
 A user would be able to filter the sightings by typing the criteria into one or more of the input fields for either date, city, state, country and/or shape of the UFO. After entering the criteria into the field, the results populate the table automatcally and instantaneously without the cick of a button. If a user would like to clear the results, they could either refresh the page or click on the "UFO Sightings" text at the upper left corener of the page.
 
-![UFO_filter1](images/UFO_filter1.png)
-![UFO_filter2](images/UFO_filter2.png)
+![UFO_filter1](static/images/UFO_filter1.png)
+![UFO_filter2](static/images/UFO_filter2.png)
 
 ## Summary
 For the most part, this project was a major success. The website looks beautiful and functions properly. However, the filter element has some drawbacks. If the criteria does not match any of the items in the data set, the table will be blank. This could occur based on spelling, characters being capitalized or there are no objects that match the filter. There could be some simple improvements made to increase functionality and the overall user experience:
